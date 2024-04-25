@@ -91,6 +91,7 @@ body{
     display: block;
     width: 100%;
     padding: 13px;
+    color: var(--white);
     background-color: var(--orange);
     border: none;
     border-radius: 22px;
